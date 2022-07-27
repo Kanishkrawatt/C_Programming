@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "*.ejs": "html",
+        "stdio.h": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c"
+    }
+}
