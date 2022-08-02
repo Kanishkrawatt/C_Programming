@@ -22,11 +22,12 @@ Array are collection of Homogenous Elements in Continious Order
 * It is Static
 * It is Non-Primitive 
 <br>
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Elements
-     | A | B | C | D |   
-     |--:|--:|--:|--:|
-     | 0 | 1 | 2 | 3 |  
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Index
+&nbsp;&nbsp; Elements
+
+| A | B | C | D |   
+|--:|--:|--:|--:|
+| 0 | 1 | 2 | 3 |  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Index
 
 <br>
 
