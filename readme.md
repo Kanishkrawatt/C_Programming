@@ -29,13 +29,14 @@ Array are collection of Homogenous Elements in Continious Order
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Index
 
 <br>
+
 ```Array
 
-    // Initialization of Array
-    int Arr[]= {1,2,3,4,5};
+// Initialization of Array
+int Arr[]= {1,2,3,4,5};
 
-    // Array Declaration 
-    int Arr[Size_Of_Array];
+// Array Declaration 
+int Arr[Size_Of_Array];
 
 ``` 
 <br>
