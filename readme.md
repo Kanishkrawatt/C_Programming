@@ -67,7 +67,7 @@ struct Node{
 ```
 ## [Stack]()
 
-It is based on LIFO, Last in First out , where insertion and deletion take place at one end Called Top.
-Insertion is known as **PUSH**
+It is based on LIFO, Last in First out , where insertion and deletion take place at one end Called Top.<br>
+Insertion is known as **PUSH**<br>
 Deletion is Known as **POP**   
 
