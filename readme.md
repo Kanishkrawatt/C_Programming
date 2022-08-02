@@ -27,6 +27,7 @@ Array are collection of Homogenous Elements in Continious Order
 | A | B | C | D |   
 |--:|--:|--:|--:|
 | 0 | 1 | 2 | 3 |  
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Index
 
 <br>
