@@ -54,7 +54,7 @@ and a **Special Pointer** Which stores **NULL** in Link called **END**
   | Info | Link |  
   |-----:|-----:|
 <br>
-``` Structure Of Linked List
+```Structure Of Linked List
 
 // Structure of Node
 
