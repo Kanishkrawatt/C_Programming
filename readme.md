@@ -60,8 +60,14 @@ and a **Special Pointer** Which stores **NULL** in Link called **END**
 // Structure of Node
 
 struct Node{
-int info;           // INFO Part (can store any value)
-struct Node * Link; // Link Part (Stores The address of Next Node)
+    int info;           // INFO Part (can store any value)
+    struct Node * Link; // Link Part (Stores The address of Next Node)
 }
 
 ```
+## [Stack]()
+
+It is based on LIFO, Last in First out , where insertion and deletion take place at one end Called Top.
+Insertion is known as **PUSH**
+Deletion is Known as **POP**   
+
