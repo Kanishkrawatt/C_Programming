@@ -59,8 +59,7 @@ and a **Special Pointer** Which stores **NULL** in Link called **END**
 // Structure of Node
 
 struct Node{
-    int info;           // INFO Part (can store any value)
-    struct Node * Link; // Link Part (Stores The address of Next Node)
+int info;           // INFO Part (can store any value)
+struct Node * Link; // Link Part (Stores The address of Next Node)
 }
-
 ```
