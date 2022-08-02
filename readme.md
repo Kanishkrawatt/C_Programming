@@ -45,10 +45,10 @@ int Arr[Size_Of_Array];
 <br>
 
 ### [Linked List]()
-It is Collection of Nodes Where node has a Two Part First Part is Info And The second Part is Link. 
-In Info, The Value is Stored and,
-In Link Part, Address of next Node is stored.
-There is a **Special Pointer** Which stores the **address of Fist Node** called **START**
+It is Collection of Nodes Where node has a Two Part First Part is Info And The second Part is Link. <br>
+In Info, The Value is Stored and,<br>
+In Link Part, Address of next Node is stored. <br>
+There is a **Special Pointer** Which stores the **address of Fist Node** called **START**<br>
 and a **Special Pointer** Which stores **NULL** in Link called **END**
 <br>
   | Info | Link |  
