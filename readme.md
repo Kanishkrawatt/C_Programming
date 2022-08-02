@@ -22,7 +22,7 @@ Array are collection of Homogenous Elements in Continious Order
 * It is Static
 * It is Non-Primitive 
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Elements
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; Elements
 <br>
 
 | A | B | C | D |   
