@@ -7,6 +7,10 @@ int rear=-1;
 // function to insert an element in a circular queue
 void enqueue(int element)  
 {  
+    if((rear+1)%max==front)  // condition to check queue is full  
+    {  
+        printf("Queue is overflow..");  
+    } 
     if(front==-1 && rear==-1)   // condition to check queue is empty  
     {  
         front=0;  
@@ -57,7 +61,7 @@ void display()
         while(i<=rear)  
         {  
             printf("%d,", queue[i]);  
-            i=(i+1)%max;  
+            i=(i+1);  
         }  
     }  
 }  
